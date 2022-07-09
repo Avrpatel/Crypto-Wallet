@@ -6,14 +6,14 @@ Activity Fintech Finder is an application that its customers can use to find fin
 
 ## Screenshots
 
-### Streamlit application page
+### Streamlit application page - Payment to Jo
 
-![streamlit application](Images/streamlit-app.PNG)
+![streamlit application](Images/jo-payment.PNG)
 
-### Entries to ledger
+### Streamlit application page - Payment to Lane
 
-![ledger entries](Images/created-blocks.PNG)
+![ledger entries](Images/lane-payment.PNG)
 
-### Validation is True 
+### Ganache Transactions
 
-![validation](Images/validation.PNG)
+![validation](Images/ganache-transactions.PNG)
